@@ -3,10 +3,6 @@
   "version": "0.3.0-pre2",
   "description": "Powerful WebRTC SFU for Node.js",
   "main": "lib/mediasoup.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ibc/mediasoup.git"
-  },
   "author": "Iñaki Baz Castillo <ibc@aliax.net>",
   "license": "ISC",
   "bugs": {
